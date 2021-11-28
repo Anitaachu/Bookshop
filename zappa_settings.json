@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "aws_region": "eu-west-2",
+        "django_settings": "bookshop.settings",
+        "profile_name": "default",
+        "project_name": "bookshop",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-lhnbx5bbj"
+    }
+}
